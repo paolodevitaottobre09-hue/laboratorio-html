@@ -97,10 +97,10 @@ footer {
             border: 1px solid black;
         }
         caption {
-            font-weight:bold; color: #00ffff;
+            font-weight:bold; color: #808080;
         }
         th {
-            background-color: #da70d6;
+            background-color: #800000;
         }
         td {
             text-align: center;
