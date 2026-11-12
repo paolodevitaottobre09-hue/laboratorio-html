@@ -93,3 +93,26 @@ footer {
     font-size: 14px;
     color: #526174;
 }
+        table, th, td {
+            border: 1px solid black;
+        }
+        caption {
+            font-weight:bold; color: #00ffff;
+        }
+        th {
+            background-color: #da70d6;
+        }
+        td {
+            text-align: center;
+        }
+      
+   
+.stella {
+    color: gold;
+    font-size: 120px;
+    text-align: center;
+}
+
+.card h2 {
+    color: darkblue;
+}
